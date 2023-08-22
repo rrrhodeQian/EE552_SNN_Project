@@ -1,0 +1,55 @@
+Time resolution is 1 fs
+fp1 data read:0010100000000000000000000000000101101101
+fp2 data read:0010100000000000000000000000000000101111
+### testbench.intf_2.Receive Stalled(                 100) @            100000000
+### testbench.intf_1.Receive Stalled(                 100) @            100000000
+### testbench.intf_0.Receive Stalled(                   2) @            102000000
+testbench.sumtb.Block43_35 data_out O11:  171798692252 received at            102000000
+fp1 data read:0010100001000000000000000000001010010011
+### testbench.intf_2.Send Stalled(                   2) @            104000000
+fp2 data read:0010100001000000000000000000000001110000
+### testbench.intf_0.Receive Stalled(                   2) @            106000000
+testbench.sumtb.Block43_35 data_out O12:  172872434435 received at            106000000
+fp1 data read:0010100010000000000000000000001001010010
+### testbench.intf_2.Send Stalled(                   2) @            108000000
+fp2 data read:0010100010000000000000000000000010101101
+### testbench.intf_0.Receive Stalled(                   2) @            110000000
+testbench.sumtb.Block43_35 data_out O13:  173946176255 received at            110000000
+fp1 data read:0010100011000000000000000000000000010011
+### testbench.intf_2.Send Stalled(                   2) @            112000000
+fp2 data read:0010100011000000000000000000000011011000
+### testbench.intf_0.Receive Stalled(                   2) @            114000000
+testbench.sumtb.Block43_35 data_out O14:  175019917547 received at            114000000
+fp1 data read:0010100100000000000000000000000110110110
+### testbench.intf_2.Send Stalled(                   2) @            116000000
+fp2 data read:0010100100000000000000000000000011111110
+### testbench.intf_0.Receive Stalled(                   2) @            118000000
+testbench.sumtb.Block43_35 data_out O15:  176093659828 received at            118000000
+fp1 data read:0010100101000000000000000000000100010111
+### testbench.intf_2.Send Stalled(                   2) @            120000000
+fp2 data read:0010100101000000000000000000000100011111
+### testbench.intf_0.Receive Stalled(                   2) @            122000000
+testbench.sumtb.Block43_35 data_out O16:  177167401526 received at            122000000
+fp1 data read:0010100110000000000000000000000010010100
+### testbench.intf_2.Send Stalled(                   2) @            124000000
+fp2 data read:0010100110000000000000000000000101000111
+### testbench.intf_0.Receive Stalled(                   2) @            126000000
+testbench.sumtb.Block43_35 data_out O17:  178241143259 received at            126000000
+fp1 data read:0010100111000000000000000000001100011000
+### testbench.intf_2.Send Stalled(                   2) @            128000000
+fp2 data read:0010100111000000000000000000000101100110
+### testbench.intf_0.Receive Stalled(                   2) @            130000000
+testbench.sumtb.Block43_35 data_out O18:  179314885758 received at            130000000
+fp1 data read:0010101000000000000000000000000110000011
+### testbench.intf_2.Send Stalled(                   2) @            132000000
+fp2 data read:0010101000000000000000000000000110000011
+### testbench.intf_0.Receive Stalled(                   2) @            134000000
+testbench.sumtb.Block43_35 data_out O19:  180388627206 received at            134000000
+fp1 data read:0010101001000000000000000000001011100000
+### testbench.intf_2.Send Stalled(                   2) @            136000000
+fp2 data read:0010101001000000000000000000000110001111
+### testbench.intf_0.Receive Stalled(                   2) @            138000000
+testbench.sumtb.Block43_35 data_out O110:  181462369391 received at            138000000
+###Deadlock Detected on .testbench.intf_2. @            140000000
+###Deadlock Detected on .testbench.intf_1. @            140000000
+$stop called at time : 938 ns : File "C:/EE552_project/sum_tb.sv" Line 65

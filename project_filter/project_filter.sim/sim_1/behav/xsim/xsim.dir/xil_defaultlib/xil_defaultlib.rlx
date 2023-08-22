@@ -1,0 +1,8 @@
+0.7
+2020.2
+Oct 14 2022
+05:20:55
+C:/EE552_project/SystemVerilogCSP.sv,1682312738,systemVerilog,C:/EE552_project/filter.sv;C:/EE552_project/filter_tb.sv,C:/EE552_project/filter.sv,,$unit_SystemVerilogCSP_sv_2395153606;Channel;SystemVerilogCSP,,uvm,,,,,,
+C:/EE552_project/filter.sv,1682302299,systemVerilog,,C:/EE552_project/filter_tb.sv,,filter;filter_control;filter_mem;filter_pack,,uvm,,,,,,
+C:/EE552_project/filter_tb.sv,1682314873,systemVerilog,,,,filter_tb;testbench,,uvm,,,,,,
+C:/EE552_project/project_filter/project_filter.sim/sim_1/behav/xsim/glbl.v,1665704903,verilog,,,,glbl,,uvm,,,,,,

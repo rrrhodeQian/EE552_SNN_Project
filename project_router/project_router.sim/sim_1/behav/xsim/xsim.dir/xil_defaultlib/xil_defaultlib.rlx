@@ -1,0 +1,9 @@
+0.7
+2020.2
+Oct 14 2022
+05:20:55
+C:/EE552_project/SystemVerilogCSP.sv,1681855468,systemVerilog,C:/EE552_project/arbiter.sv;C:/EE552_project/router.sv;C:/EE552_project/router_tb.sv,C:/EE552_project/arbiter.sv,,$unit_SystemVerilogCSP_sv_3601310635;Channel;SystemVerilogCSP,,uvm,,,,,,
+C:/EE552_project/arbiter.sv,1681979886,systemVerilog,,C:/EE552_project/router.sv,,arbiter;arbiter2_1;arbiter3_1,,uvm,,,,,,
+C:/EE552_project/project_router/project_router.sim/sim_1/behav/xsim/glbl.v,1665704903,verilog,,,,glbl,,uvm,,,,,,
+C:/EE552_project/router.sv,1682017456,systemVerilog,,C:/EE552_project/router_tb.sv,,depack;dispatch;pack;router,,uvm,,,,,,
+C:/EE552_project/router_tb.sv,1682033067,systemVerilog,,,,router_tb;testbench,,uvm,,,,,,

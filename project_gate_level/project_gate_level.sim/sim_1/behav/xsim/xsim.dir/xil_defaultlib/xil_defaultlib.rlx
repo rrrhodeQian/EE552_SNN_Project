@@ -1,0 +1,8 @@
+0.7
+2020.2
+Oct 14 2022
+05:20:55
+C:/EE552_project/gate_level/components.sv,1682969630,systemVerilog,,C:/EE552_project/gate_level/sum.sv,,adder;c_element;inverter;latch,,uvm,,,,,,
+C:/EE552_project/gate_level/sum.sv,1682971022,systemVerilog,,C:/EE552_project/gate_level/sum_tb.sv,,sum,,uvm,,,,,,
+C:/EE552_project/gate_level/sum_tb.sv,1682972039,systemVerilog,,,,sum_tb,,uvm,,,,,,
+C:/EE552_project/project_gate_level/project_gate_level.sim/sim_1/behav/xsim/glbl.v,1665704903,verilog,,,,glbl,,uvm,,,,,,

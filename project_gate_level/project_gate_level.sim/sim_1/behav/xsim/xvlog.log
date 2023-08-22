@@ -1,0 +1,9 @@
+INFO: [VRFC 10-2263] Analyzing SystemVerilog file "C:/EE552_project/gate_level/components.sv" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module c_element
+INFO: [VRFC 10-311] analyzing module inverter
+INFO: [VRFC 10-311] analyzing module adder
+INFO: [VRFC 10-311] analyzing module latch
+INFO: [VRFC 10-2263] Analyzing SystemVerilog file "C:/EE552_project/gate_level/sum.sv" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module sum
+INFO: [VRFC 10-2263] Analyzing SystemVerilog file "C:/EE552_project/gate_level/sum_tb.sv" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module sum_tb

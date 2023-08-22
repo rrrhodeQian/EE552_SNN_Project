@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<wave_config>
+   <wave_state>
+   </wave_state>
+   <db_ref_list>
+      <db_ref path="testbench_behav.wdb" id="1">
+         <top_modules>
+            <top_module name="SystemVerilogCSP" />
+            <top_module name="glbl" />
+            <top_module name="std" />
+            <top_module name="testbench" />
+         </top_modules>
+      </db_ref>
+   </db_ref_list>
+   <zoom_setting>
+      <ZoomStartTime time="137.813797 ns"></ZoomStartTime>
+      <ZoomEndTime time="213.637241 ns"></ZoomEndTime>
+      <Cursor1Time time="201.000000 ns"></Cursor1Time>
+   </zoom_setting>
+   <column_width_setting>
+      <NameColumnWidth column_width="339"></NameColumnWidth>
+      <ValueColumnWidth column_width="218"></ValueColumnWidth>
+   </column_width_setting>
+   <WVObjectSize size="4" />
+   <wvobject fp_name="/testbench/rt_tb/data_pack" type="array">
+      <obj_property name="ElementShortName">data_pack[63:0]</obj_property>
+      <obj_property name="ObjectShortName">data_pack[63:0]</obj_property>
+      <obj_property name="Radix">BINARYRADIX</obj_property>
+   </wvobject>
+   <wvobject fp_name="/testbench/\intf[0] /data" type="array">
+      <obj_property name="ElementShortName">data[63:0]</obj_property>
+      <obj_property name="ObjectShortName">data[63:0]</obj_property>
+      <obj_property name="Radix">BINARYRADIX</obj_property>
+   </wvobject>
+   <wvobject fp_name="/testbench/rt_tb/data" type="array">
+      <obj_property name="ElementShortName">data[39:0]</obj_property>
+      <obj_property name="ObjectShortName">data[39:0]</obj_property>
+      <obj_property name="Radix">BINARYRADIX</obj_property>
+   </wvobject>
+   <wvobject fp_name="/testbench/\intf_s[1] /data" type="array">
+      <obj_property name="ElementShortName">data[39:0]</obj_property>
+      <obj_property name="ObjectShortName">data[39:0]</obj_property>
+   </wvobject>
+</wave_config>

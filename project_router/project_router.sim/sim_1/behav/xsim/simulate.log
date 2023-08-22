@@ -1,0 +1,7 @@
+Time resolution is 1 fs
+fp1 data read:0000000000000010000010000010100001000000000000000000000000010011
+### testbench.rt.\intf[0] .Receive Stalled(                 100) @            100000000
+### testbench.rt.\intf[1] .Receive Stalled(                 100) @            100000000
+### testbench.\intf_s[1] .Receive Stalled(                   1) @            101000000
+###Deadlock Detected on .testbench.\intf_s[0] . @                    0
+$stop called at time : 201 ns : File "C:/EE552_project/router_tb.sv" Line 65

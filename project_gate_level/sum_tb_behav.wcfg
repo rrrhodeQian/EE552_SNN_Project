@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<wave_config>
+   <wave_state>
+   </wave_state>
+   <db_ref_list>
+      <db_ref path="sum_tb_behav.wdb" id="1">
+         <top_modules>
+            <top_module name="glbl" />
+            <top_module name="sum_tb" />
+         </top_modules>
+      </db_ref>
+   </db_ref_list>
+   <zoom_setting>
+      <ZoomStartTime time="0 ps"></ZoomStartTime>
+      <ZoomEndTime time="41 ps"></ZoomEndTime>
+      <Cursor1Time time="1,000,000 ps"></Cursor1Time>
+   </zoom_setting>
+   <column_width_setting>
+      <NameColumnWidth column_width="469"></NameColumnWidth>
+      <ValueColumnWidth column_width="223"></ValueColumnWidth>
+   </column_width_setting>
+   <WVObjectSize size="9" />
+   <wvobject fp_name="/sum_tb/L1_req" type="logic">
+      <obj_property name="ElementShortName">L1_req</obj_property>
+      <obj_property name="ObjectShortName">L1_req</obj_property>
+   </wvobject>
+   <wvobject fp_name="/sum_tb/L2_req" type="logic">
+      <obj_property name="ElementShortName">L2_req</obj_property>
+      <obj_property name="ObjectShortName">L2_req</obj_property>
+   </wvobject>
+   <wvobject fp_name="/sum_tb/R_ack" type="logic">
+      <obj_property name="ElementShortName">R_ack</obj_property>
+      <obj_property name="ObjectShortName">R_ack</obj_property>
+   </wvobject>
+   <wvobject fp_name="/sum_tb/L1_ack" type="logic">
+      <obj_property name="ElementShortName">L1_ack</obj_property>
+      <obj_property name="ObjectShortName">L1_ack</obj_property>
+   </wvobject>
+   <wvobject fp_name="/sum_tb/L2_ack" type="logic">
+      <obj_property name="ElementShortName">L2_ack</obj_property>
+      <obj_property name="ObjectShortName">L2_ack</obj_property>
+   </wvobject>
+   <wvobject fp_name="/sum_tb/R_req" type="logic">
+      <obj_property name="ElementShortName">R_req</obj_property>
+      <obj_property name="ObjectShortName">R_req</obj_property>
+   </wvobject>
+   <wvobject fp_name="/sum_tb/L1_data" type="array">
+      <obj_property name="ElementShortName">L1_data[7:0]</obj_property>
+      <obj_property name="ObjectShortName">L1_data[7:0]</obj_property>
+      <obj_property name="Radix">UNSIGNEDDECRADIX</obj_property>
+   </wvobject>
+   <wvobject fp_name="/sum_tb/L2_data" type="array">
+      <obj_property name="ElementShortName">L2_data[7:0]</obj_property>
+      <obj_property name="ObjectShortName">L2_data[7:0]</obj_property>
+      <obj_property name="Radix">UNSIGNEDDECRADIX</obj_property>
+   </wvobject>
+   <wvobject fp_name="/sum_tb/R_data" type="array">
+      <obj_property name="ElementShortName">R_data[12:0]</obj_property>
+      <obj_property name="ObjectShortName">R_data[12:0]</obj_property>
+      <obj_property name="Radix">UNSIGNEDDECRADIX</obj_property>
+   </wvobject>
+</wave_config>

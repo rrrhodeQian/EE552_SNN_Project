@@ -1,0 +1,140 @@
+
+*** Running vivado
+    with args -log sum_tb.vds -m64 -product Vivado -mode batch -messageDb vivado.pb -notrace -source sum_tb.tcl
+
+
+
+****** Vivado v2022.2 (64-bit)
+  **** SW Build 3671981 on Fri Oct 14 05:00:03 MDT 2022
+  **** IP Build 3669848 on Fri Oct 14 08:30:02 MDT 2022
+    ** Copyright 1986-2022 Xilinx, Inc. All Rights Reserved.
+
+source sum_tb.tcl -notrace
+Command: synth_design -top sum_tb -part xc7k70tfbv676-1
+Starting synth_design
+Attempting to get a license for feature 'Synthesis' and/or device 'xc7k70t'
+INFO: [Common 17-349] Got license for feature 'Synthesis' and/or device 'xc7k70t'
+INFO: [Synth 8-7079] Multithreading enabled for synth_design using a maximum of 2 processes.
+INFO: [Synth 8-7078] Launching helper process for spawning children vivado processes
+INFO: [Synth 8-7075] Helper process launched with PID 29056
+INFO: [Synth 8-11241] undeclared symbol 'REGCCE', assumed default net type 'wire' [D:/Xilinx/Vivado/2022.2/data/verilog/src/unimacro/BRAM_SINGLE_MACRO.v:2170]
+---------------------------------------------------------------------------------
+Starting Synthesize : Time (s): cpu = 00:00:01 ; elapsed = 00:00:03 . Memory (MB): peak = 832.590 ; gain = 413.910
+---------------------------------------------------------------------------------
+INFO: [Synth 8-6157] synthesizing module 'sum_tb' [C:/EE552_project/gate_level/sum_tb.sv:7]
+WARNING: [Synth 8-311] ignoring non-constant assignment in initial block [C:/EE552_project/gate_level/sum_tb.sv:17]
+WARNING: [Synth 8-311] ignoring non-constant assignment in initial block [C:/EE552_project/gate_level/sum_tb.sv:18]
+WARNING: [Synth 8-311] ignoring non-constant assignment in initial block [C:/EE552_project/gate_level/sum_tb.sv:19]
+WARNING: [Synth 8-311] ignoring non-constant assignment in initial block [C:/EE552_project/gate_level/sum_tb.sv:17]
+WARNING: [Synth 8-311] ignoring non-constant assignment in initial block [C:/EE552_project/gate_level/sum_tb.sv:18]
+WARNING: [Synth 8-311] ignoring non-constant assignment in initial block [C:/EE552_project/gate_level/sum_tb.sv:19]
+WARNING: [Synth 8-311] ignoring non-constant assignment in initial block [C:/EE552_project/gate_level/sum_tb.sv:17]
+WARNING: [Synth 8-311] ignoring non-constant assignment in initial block [C:/EE552_project/gate_level/sum_tb.sv:18]
+WARNING: [Synth 8-311] ignoring non-constant assignment in initial block [C:/EE552_project/gate_level/sum_tb.sv:19]
+WARNING: [Synth 8-311] ignoring non-constant assignment in initial block [C:/EE552_project/gate_level/sum_tb.sv:17]
+WARNING: [Synth 8-311] ignoring non-constant assignment in initial block [C:/EE552_project/gate_level/sum_tb.sv:18]
+WARNING: [Synth 8-311] ignoring non-constant assignment in initial block [C:/EE552_project/gate_level/sum_tb.sv:19]
+WARNING: [Synth 8-311] ignoring non-constant assignment in initial block [C:/EE552_project/gate_level/sum_tb.sv:17]
+WARNING: [Synth 8-311] ignoring non-constant assignment in initial block [C:/EE552_project/gate_level/sum_tb.sv:18]
+WARNING: [Synth 8-311] ignoring non-constant assignment in initial block [C:/EE552_project/gate_level/sum_tb.sv:19]
+WARNING: [Synth 8-311] ignoring non-constant assignment in initial block [C:/EE552_project/gate_level/sum_tb.sv:17]
+WARNING: [Synth 8-311] ignoring non-constant assignment in initial block [C:/EE552_project/gate_level/sum_tb.sv:18]
+WARNING: [Synth 8-311] ignoring non-constant assignment in initial block [C:/EE552_project/gate_level/sum_tb.sv:19]
+WARNING: [Synth 8-311] ignoring non-constant assignment in initial block [C:/EE552_project/gate_level/sum_tb.sv:17]
+WARNING: [Synth 8-311] ignoring non-constant assignment in initial block [C:/EE552_project/gate_level/sum_tb.sv:18]
+WARNING: [Synth 8-311] ignoring non-constant assignment in initial block [C:/EE552_project/gate_level/sum_tb.sv:19]
+WARNING: [Synth 8-311] ignoring non-constant assignment in initial block [C:/EE552_project/gate_level/sum_tb.sv:17]
+WARNING: [Synth 8-311] ignoring non-constant assignment in initial block [C:/EE552_project/gate_level/sum_tb.sv:18]
+WARNING: [Synth 8-311] ignoring non-constant assignment in initial block [C:/EE552_project/gate_level/sum_tb.sv:19]
+WARNING: [Synth 8-311] ignoring non-constant assignment in initial block [C:/EE552_project/gate_level/sum_tb.sv:17]
+WARNING: [Synth 8-311] ignoring non-constant assignment in initial block [C:/EE552_project/gate_level/sum_tb.sv:18]
+WARNING: [Synth 8-311] ignoring non-constant assignment in initial block [C:/EE552_project/gate_level/sum_tb.sv:19]
+WARNING: [Synth 8-311] ignoring non-constant assignment in initial block [C:/EE552_project/gate_level/sum_tb.sv:17]
+WARNING: [Synth 8-311] ignoring non-constant assignment in initial block [C:/EE552_project/gate_level/sum_tb.sv:18]
+WARNING: [Synth 8-311] ignoring non-constant assignment in initial block [C:/EE552_project/gate_level/sum_tb.sv:19]
+WARNING: [Synth 8-311] ignoring non-constant assignment in initial block [C:/EE552_project/gate_level/sum_tb.sv:17]
+WARNING: [Synth 8-311] ignoring non-constant assignment in initial block [C:/EE552_project/gate_level/sum_tb.sv:18]
+WARNING: [Synth 8-311] ignoring non-constant assignment in initial block [C:/EE552_project/gate_level/sum_tb.sv:19]
+WARNING: [Synth 8-311] ignoring non-constant assignment in initial block [C:/EE552_project/gate_level/sum_tb.sv:17]
+WARNING: [Synth 8-311] ignoring non-constant assignment in initial block [C:/EE552_project/gate_level/sum_tb.sv:18]
+WARNING: [Synth 8-311] ignoring non-constant assignment in initial block [C:/EE552_project/gate_level/sum_tb.sv:19]
+WARNING: [Synth 8-311] ignoring non-constant assignment in initial block [C:/EE552_project/gate_level/sum_tb.sv:17]
+WARNING: [Synth 8-311] ignoring non-constant assignment in initial block [C:/EE552_project/gate_level/sum_tb.sv:18]
+WARNING: [Synth 8-311] ignoring non-constant assignment in initial block [C:/EE552_project/gate_level/sum_tb.sv:19]
+WARNING: [Synth 8-311] ignoring non-constant assignment in initial block [C:/EE552_project/gate_level/sum_tb.sv:17]
+WARNING: [Synth 8-311] ignoring non-constant assignment in initial block [C:/EE552_project/gate_level/sum_tb.sv:18]
+WARNING: [Synth 8-311] ignoring non-constant assignment in initial block [C:/EE552_project/gate_level/sum_tb.sv:19]
+WARNING: [Synth 8-311] ignoring non-constant assignment in initial block [C:/EE552_project/gate_level/sum_tb.sv:17]
+WARNING: [Synth 8-311] ignoring non-constant assignment in initial block [C:/EE552_project/gate_level/sum_tb.sv:18]
+WARNING: [Synth 8-311] ignoring non-constant assignment in initial block [C:/EE552_project/gate_level/sum_tb.sv:19]
+WARNING: [Synth 8-311] ignoring non-constant assignment in initial block [C:/EE552_project/gate_level/sum_tb.sv:17]
+WARNING: [Synth 8-311] ignoring non-constant assignment in initial block [C:/EE552_project/gate_level/sum_tb.sv:18]
+WARNING: [Synth 8-311] ignoring non-constant assignment in initial block [C:/EE552_project/gate_level/sum_tb.sv:19]
+WARNING: [Synth 8-311] ignoring non-constant assignment in initial block [C:/EE552_project/gate_level/sum_tb.sv:17]
+WARNING: [Synth 8-311] ignoring non-constant assignment in initial block [C:/EE552_project/gate_level/sum_tb.sv:18]
+WARNING: [Synth 8-311] ignoring non-constant assignment in initial block [C:/EE552_project/gate_level/sum_tb.sv:19]
+WARNING: [Synth 8-311] ignoring non-constant assignment in initial block [C:/EE552_project/gate_level/sum_tb.sv:17]
+WARNING: [Synth 8-311] ignoring non-constant assignment in initial block [C:/EE552_project/gate_level/sum_tb.sv:18]
+WARNING: [Synth 8-311] ignoring non-constant assignment in initial block [C:/EE552_project/gate_level/sum_tb.sv:19]
+WARNING: [Synth 8-311] ignoring non-constant assignment in initial block [C:/EE552_project/gate_level/sum_tb.sv:17]
+WARNING: [Synth 8-311] ignoring non-constant assignment in initial block [C:/EE552_project/gate_level/sum_tb.sv:18]
+WARNING: [Synth 8-311] ignoring non-constant assignment in initial block [C:/EE552_project/gate_level/sum_tb.sv:19]
+WARNING: [Synth 8-311] ignoring non-constant assignment in initial block [C:/EE552_project/gate_level/sum_tb.sv:17]
+WARNING: [Synth 8-311] ignoring non-constant assignment in initial block [C:/EE552_project/gate_level/sum_tb.sv:18]
+WARNING: [Synth 8-311] ignoring non-constant assignment in initial block [C:/EE552_project/gate_level/sum_tb.sv:19]
+WARNING: [Synth 8-639] system function call 'urandom' not supported [C:/EE552_project/gate_level/sum_tb.sv:26]
+WARNING: [Synth 8-639] system function call 'urandom' not supported [C:/EE552_project/gate_level/sum_tb.sv:27]
+WARNING: [Synth 8-639] system function call 'urandom' not supported [C:/EE552_project/gate_level/sum_tb.sv:26]
+WARNING: [Synth 8-639] system function call 'urandom' not supported [C:/EE552_project/gate_level/sum_tb.sv:27]
+WARNING: [Synth 8-639] system function call 'urandom' not supported [C:/EE552_project/gate_level/sum_tb.sv:26]
+WARNING: [Synth 8-639] system function call 'urandom' not supported [C:/EE552_project/gate_level/sum_tb.sv:27]
+WARNING: [Synth 8-639] system function call 'urandom' not supported [C:/EE552_project/gate_level/sum_tb.sv:26]
+WARNING: [Synth 8-639] system function call 'urandom' not supported [C:/EE552_project/gate_level/sum_tb.sv:27]
+WARNING: [Synth 8-639] system function call 'urandom' not supported [C:/EE552_project/gate_level/sum_tb.sv:26]
+WARNING: [Synth 8-639] system function call 'urandom' not supported [C:/EE552_project/gate_level/sum_tb.sv:27]
+WARNING: [Synth 8-639] system function call 'urandom' not supported [C:/EE552_project/gate_level/sum_tb.sv:26]
+WARNING: [Synth 8-639] system function call 'urandom' not supported [C:/EE552_project/gate_level/sum_tb.sv:27]
+WARNING: [Synth 8-639] system function call 'urandom' not supported [C:/EE552_project/gate_level/sum_tb.sv:26]
+WARNING: [Synth 8-639] system function call 'urandom' not supported [C:/EE552_project/gate_level/sum_tb.sv:27]
+WARNING: [Synth 8-639] system function call 'urandom' not supported [C:/EE552_project/gate_level/sum_tb.sv:26]
+WARNING: [Synth 8-639] system function call 'urandom' not supported [C:/EE552_project/gate_level/sum_tb.sv:27]
+WARNING: [Synth 8-639] system function call 'urandom' not supported [C:/EE552_project/gate_level/sum_tb.sv:26]
+WARNING: [Synth 8-639] system function call 'urandom' not supported [C:/EE552_project/gate_level/sum_tb.sv:27]
+WARNING: [Synth 8-639] system function call 'urandom' not supported [C:/EE552_project/gate_level/sum_tb.sv:26]
+WARNING: [Synth 8-639] system function call 'urandom' not supported [C:/EE552_project/gate_level/sum_tb.sv:27]
+WARNING: [Synth 8-639] system function call 'urandom' not supported [C:/EE552_project/gate_level/sum_tb.sv:26]
+WARNING: [Synth 8-639] system function call 'urandom' not supported [C:/EE552_project/gate_level/sum_tb.sv:27]
+WARNING: [Synth 8-639] system function call 'urandom' not supported [C:/EE552_project/gate_level/sum_tb.sv:26]
+WARNING: [Synth 8-639] system function call 'urandom' not supported [C:/EE552_project/gate_level/sum_tb.sv:27]
+WARNING: [Synth 8-639] system function call 'urandom' not supported [C:/EE552_project/gate_level/sum_tb.sv:26]
+WARNING: [Synth 8-639] system function call 'urandom' not supported [C:/EE552_project/gate_level/sum_tb.sv:27]
+WARNING: [Synth 8-639] system function call 'urandom' not supported [C:/EE552_project/gate_level/sum_tb.sv:26]
+WARNING: [Synth 8-639] system function call 'urandom' not supported [C:/EE552_project/gate_level/sum_tb.sv:27]
+WARNING: [Synth 8-639] system function call 'urandom' not supported [C:/EE552_project/gate_level/sum_tb.sv:26]
+WARNING: [Synth 8-639] system function call 'urandom' not supported [C:/EE552_project/gate_level/sum_tb.sv:27]
+WARNING: [Synth 8-639] system function call 'urandom' not supported [C:/EE552_project/gate_level/sum_tb.sv:26]
+WARNING: [Synth 8-639] system function call 'urandom' not supported [C:/EE552_project/gate_level/sum_tb.sv:27]
+WARNING: [Synth 8-639] system function call 'urandom' not supported [C:/EE552_project/gate_level/sum_tb.sv:26]
+WARNING: [Synth 8-639] system function call 'urandom' not supported [C:/EE552_project/gate_level/sum_tb.sv:27]
+WARNING: [Synth 8-639] system function call 'urandom' not supported [C:/EE552_project/gate_level/sum_tb.sv:26]
+WARNING: [Synth 8-639] system function call 'urandom' not supported [C:/EE552_project/gate_level/sum_tb.sv:27]
+WARNING: [Synth 8-639] system function call 'urandom' not supported [C:/EE552_project/gate_level/sum_tb.sv:26]
+WARNING: [Synth 8-639] system function call 'urandom' not supported [C:/EE552_project/gate_level/sum_tb.sv:27]
+WARNING: [Synth 8-639] system function call 'urandom' not supported [C:/EE552_project/gate_level/sum_tb.sv:26]
+WARNING: [Synth 8-639] system function call 'urandom' not supported [C:/EE552_project/gate_level/sum_tb.sv:27]
+INFO: [Synth 8-6157] synthesizing module 'sum' [C:/EE552_project/gate_level/sum.sv:7]
+INFO: [Synth 8-6157] synthesizing module 'c_element' [C:/EE552_project/gate_level/components.sv:5]
+ERROR: [Synth 8-27] wait statement not supported [C:/EE552_project/gate_level/components.sv:11]
+WARNING: [Synth 8-85] always block has no event control specified [C:/EE552_project/gate_level/components.sv:10]
+ERROR: [Synth 8-6156] failed synthesizing module 'c_element' [C:/EE552_project/gate_level/components.sv:5]
+ERROR: [Synth 8-6156] failed synthesizing module 'sum' [C:/EE552_project/gate_level/sum.sv:7]
+ERROR: [Synth 8-6156] failed synthesizing module 'sum_tb' [C:/EE552_project/gate_level/sum_tb.sv:7]
+---------------------------------------------------------------------------------
+Finished Synthesize : Time (s): cpu = 00:00:02 ; elapsed = 00:00:04 . Memory (MB): peak = 922.148 ; gain = 503.469
+---------------------------------------------------------------------------------
+synthesize failed
+INFO: [Common 17-83] Releasing license: Synthesis
+9 Infos, 101 Warnings, 0 Critical Warnings and 5 Errors encountered.
+synth_design failed
+ERROR: [Common 17-69] Command failed: Vivado Synthesis failed
+INFO: [Common 17-206] Exiting Vivado at Mon May  1 13:18:20 2023...

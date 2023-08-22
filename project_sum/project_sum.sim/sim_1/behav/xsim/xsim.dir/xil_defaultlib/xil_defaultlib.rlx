@@ -1,0 +1,8 @@
+0.7
+2020.2
+Oct 14 2022
+05:20:55
+C:/EE552_project/SystemVerilogCSP.sv,1681855468,systemVerilog,C:/EE552_project/sum.sv;C:/EE552_project/sum_tb.sv,C:/EE552_project/sum.sv,,$unit_SystemVerilogCSP_sv_715471592;Channel;SystemVerilogCSP,,uvm,,,,,,
+C:/EE552_project/project_sum/project_sum.sim/sim_1/behav/xsim/glbl.v,1665704903,verilog,,,,glbl,,uvm,,,,,,
+C:/EE552_project/sum.sv,1681953573,systemVerilog,,C:/EE552_project/sum_tb.sv,,sum,,uvm,,,,,,
+C:/EE552_project/sum_tb.sv,1681934409,systemVerilog,,,,sum_tb;testbench,,uvm,,,,,,

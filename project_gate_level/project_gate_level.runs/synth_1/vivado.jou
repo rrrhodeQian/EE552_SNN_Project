@@ -1,0 +1,13 @@
+#-----------------------------------------------------------
+# Vivado v2022.2 (64-bit)
+# SW Build 3671981 on Fri Oct 14 05:00:03 MDT 2022
+# IP Build 3669848 on Fri Oct 14 08:30:02 MDT 2022
+# Start of session at: Mon May  1 13:18:11 2023
+# Process ID: 43468
+# Current directory: C:/EE552_project/project_gate_level/project_gate_level.runs/synth_1
+# Command line: vivado.exe -log sum_tb.vds -product Vivado -mode batch -messageDb vivado.pb -notrace -source sum_tb.tcl
+# Log file: C:/EE552_project/project_gate_level/project_gate_level.runs/synth_1/sum_tb.vds
+# Journal file: C:/EE552_project/project_gate_level/project_gate_level.runs/synth_1\vivado.jou
+# Running On: RHODEYE, OS: Windows, CPU Frequency: 2688 MHz, CPU Physical cores: 14, Host memory: 16855 MB
+#-----------------------------------------------------------
+source sum_tb.tcl -notrace

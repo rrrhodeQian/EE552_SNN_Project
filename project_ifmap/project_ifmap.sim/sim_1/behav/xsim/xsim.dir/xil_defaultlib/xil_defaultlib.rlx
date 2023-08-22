@@ -1,0 +1,8 @@
+0.7
+2020.2
+Oct 14 2022
+05:20:55
+C:/EE552_project/SystemVerilogCSP.sv,1682228724,systemVerilog,C:/EE552_project/ifmap.sv;C:/EE552_project/ifmap_tb.sv,C:/EE552_project/ifmap.sv,,$unit_SystemVerilogCSP_sv_3826019149;Channel;SystemVerilogCSP,,uvm,,,,,,
+C:/EE552_project/ifmap.sv,1682290354,systemVerilog,,C:/EE552_project/ifmap_tb.sv,,ifmap;ifmap_control;ifmap_mem;ifmap_pack,,uvm,,,,,,
+C:/EE552_project/ifmap_tb.sv,1682293967,systemVerilog,,,,ifmap_tb;testbench,,uvm,,,,,,
+C:/EE552_project/project_ifmap/project_ifmap.sim/sim_1/behav/xsim/glbl.v,1665704903,verilog,,,,glbl,,uvm,,,,,,

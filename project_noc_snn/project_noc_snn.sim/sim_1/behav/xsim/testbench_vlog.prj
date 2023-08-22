@@ -1,0 +1,18 @@
+# compile verilog/system verilog design source files
+sv xil_defaultlib  \
+"../../../../../SystemVerilogCSP.sv" \
+"../../../../../filter.sv" \
+"../../../../../ifmap.sv" \
+"../../../../../noc_snn.sv" \
+"../../../../../ofmap.sv" \
+"../../../../../pe.sv" \
+"../../../../../router_t1.sv" \
+"../../../../../router_t2.sv" \
+"../../../../../sum.sv" \
+"../../../../../testbench.sv" \
+
+# compile glbl module
+verilog xil_defaultlib "glbl.v"
+
+# Do not sort compile order
+nosort

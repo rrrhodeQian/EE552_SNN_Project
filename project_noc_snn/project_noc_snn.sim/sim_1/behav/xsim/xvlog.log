@@ -1,0 +1,26 @@
+INFO: [VRFC 10-2263] Analyzing SystemVerilog file "C:/EE552_project/SystemVerilogCSP.sv" into library xil_defaultlib
+INFO: [VRFC 10-2263] Analyzing SystemVerilog file "C:/EE552_project/filter.sv" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module filter_mem
+INFO: [VRFC 10-311] analyzing module filter_control
+INFO: [VRFC 10-311] analyzing module filter_pack
+INFO: [VRFC 10-311] analyzing module filter
+INFO: [VRFC 10-2263] Analyzing SystemVerilog file "C:/EE552_project/ifmap.sv" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module ifmap_mem
+INFO: [VRFC 10-311] analyzing module ifmap_control
+INFO: [VRFC 10-311] analyzing module ifmap_pack
+INFO: [VRFC 10-311] analyzing module ifmap
+INFO: [VRFC 10-2263] Analyzing SystemVerilog file "C:/EE552_project/noc_snn.sv" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module noc_snn
+INFO: [VRFC 10-2263] Analyzing SystemVerilog file "C:/EE552_project/ofmap.sv" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module ofmap
+INFO: [VRFC 10-2263] Analyzing SystemVerilog file "C:/EE552_project/pe.sv" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module pe
+INFO: [VRFC 10-2263] Analyzing SystemVerilog file "C:/EE552_project/router_t1.sv" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module router_t1
+INFO: [VRFC 10-2263] Analyzing SystemVerilog file "C:/EE552_project/router_t2.sv" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module router_t2
+INFO: [VRFC 10-2263] Analyzing SystemVerilog file "C:/EE552_project/sum.sv" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module sum
+INFO: [VRFC 10-2263] Analyzing SystemVerilog file "C:/EE552_project/testbench.sv" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module noc_snn_tb
+INFO: [VRFC 10-311] analyzing module testbench

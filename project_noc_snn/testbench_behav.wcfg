@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<wave_config>
+   <wave_state>
+   </wave_state>
+   <db_ref_list>
+      <db_ref path="testbench_behav.wdb" id="1">
+         <top_modules>
+            <top_module name="SystemVerilogCSP" />
+            <top_module name="glbl" />
+            <top_module name="std" />
+            <top_module name="testbench" />
+         </top_modules>
+      </db_ref>
+   </db_ref_list>
+   <zoom_setting>
+      <ZoomStartTime time="15,286.486667 ns"></ZoomStartTime>
+      <ZoomEndTime time="15,290.507640 ns"></ZoomEndTime>
+      <Cursor1Time time="15,288.000000 ns"></Cursor1Time>
+   </zoom_setting>
+   <column_width_setting>
+      <NameColumnWidth column_width="360"></NameColumnWidth>
+      <ValueColumnWidth column_width="214"></ValueColumnWidth>
+   </column_width_setting>
+   <WVObjectSize size="7" />
+   <wvobject fp_name="/testbench/dut/flm/pck/din" type="array">
+      <obj_property name="ElementShortName">din[7:0]</obj_property>
+      <obj_property name="ObjectShortName">din[7:0]</obj_property>
+      <obj_property name="Radix">UNSIGNEDDECRADIX</obj_property>
+   </wvobject>
+   <wvobject fp_name="/testbench/dut/flm/pck/pack_data" type="array">
+      <obj_property name="ElementShortName">pack_data[39:0]</obj_property>
+      <obj_property name="ObjectShortName">pack_data[39:0]</obj_property>
+      <obj_property name="Radix">BINARYRADIX</obj_property>
+   </wvobject>
+   <wvobject fp_name="/testbench/dut/flm/pck/pack_out" type="array">
+      <obj_property name="ElementShortName">pack_out[63:0]</obj_property>
+      <obj_property name="ObjectShortName">pack_out[63:0]</obj_property>
+      <obj_property name="Radix">BINARYRADIX</obj_property>
+   </wvobject>
+   <wvobject fp_name="/testbench/dut/flm/pck/dest_addr" type="array">
+      <obj_property name="ElementShortName">dest_addr[3:0]</obj_property>
+      <obj_property name="ObjectShortName">dest_addr[3:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/testbench/dut/flm/pck/st" type="logic">
+      <obj_property name="ElementShortName">st</obj_property>
+      <obj_property name="ObjectShortName">st</obj_property>
+   </wvobject>
+   <wvobject fp_name="/testbench/dut/flm/filter_out/data" type="array">
+      <obj_property name="ElementShortName">data[63:0]</obj_property>
+      <obj_property name="ObjectShortName">data[63:0]</obj_property>
+      <obj_property name="Radix">BINARYRADIX</obj_property>
+   </wvobject>
+   <wvobject fp_name="/testbench/dut/\intf[11] /data" type="array">
+      <obj_property name="ElementShortName">data[63:0]</obj_property>
+      <obj_property name="ObjectShortName">data[63:0]</obj_property>
+      <obj_property name="Radix">BINARYRADIX</obj_property>
+   </wvobject>
+</wave_config>
